@@ -24,7 +24,7 @@ defmodule AliyunUtil.MixProject do
   defp deps do
     [
       {:ex_doc, "~> 0.20", only: :dev},
-      {:timex, "~> 3.1"}
+      {:timex, "~> 3.5"}
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"},
     ]
   end
